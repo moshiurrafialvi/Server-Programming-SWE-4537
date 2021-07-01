@@ -72,7 +72,7 @@ Work Flow
 
     In this way Notification API, displays notifications and then goes to sleep.
 
-    ![Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_9.png](Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_9.png)
+    ![](https://user-images.githubusercontent.com/62988289/124089232-886ff700-da75-11eb-8244-0bdc39c43ce0.png)
 
 # Push API (Server Side)
 
