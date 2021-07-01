@@ -6,7 +6,7 @@ Type: Theory
 Video Link: https://drive.google.com/file/d/1qRchPuSqJKBoRPXYboABRehL6Tg7qUFQ/view
 Link 2: https://drive.google.com/file/d/1t4IVhP7UGl0ksT2L8_mlE1vngJ17EpoG/view
 
-**Notion File Link:** [shorturl.at/txzNV]()
+**Notion File Link:** [shorturl.at/nxBV7]()
 
 ------
 
