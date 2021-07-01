@@ -6,9 +6,11 @@ Type: Theory
 Video Link: https://drive.google.com/file/d/1qRchPuSqJKBoRPXYboABRehL6Tg7qUFQ/view
 Link 2: https://drive.google.com/file/d/1t4IVhP7UGl0ksT2L8_mlE1vngJ17EpoG/view
 
+**Notion File Link:** shorturl.at/txzNV
+
 ------
 
-Need 2 APIs to make Push Notification Work
+Need **2 APIs** to make Push Notification Work
 
 - **Notification API :**  To show any notification on the display.
 - **Push API :**  Allows A Service Worker to handle push messages from a server, even when server is not running. Here Server is Facebook and **Client is User's Browser.**
@@ -81,7 +83,7 @@ We are actually giving granting permission to the website to use the Push Servic
 
 ![Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_10.png](Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_10.png)
 
-                                                                             
+​                                                                             
 
 Push Notification only works through HTTPS
 
