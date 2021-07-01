@@ -72,7 +72,7 @@ Work Flow
 
     In this way Notification API, displays notifications and then goes to sleep.
 
-    ![](https://user-images.githubusercontent.com/62988289/124089232-886ff700-da75-11eb-8244-0bdc39c43ce0.png)
+    ![](https://user-images.githubusercontent.com/62988289/124089205-80b05280-da75-11eb-8df4-34725f20fe00.png)
 
 # Push API (Server Side)
 
@@ -83,7 +83,7 @@ We are actually giving granting permission to the website to use the Push Servic
 1. End Point URL (Contains URL of where we will Send Message and and an Unique Identifier that enables us to identify our user).
 2. Public Key :  Public Key of our Application.
 
-![Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_10.png](Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_10.png)
+![](https://user-images.githubusercontent.com/62988289/124089232-886ff700-da75-11eb-8244-0bdc39c43ce0.png)
 
 ​                                                                             
 
@@ -91,4 +91,4 @@ Push Notification only works through HTTPS
 
 ## Summary
 
-![Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_11.png](Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_11.png)
+![](https://user-images.githubusercontent.com/62988289/124089253-8d34ab00-da75-11eb-90f7-ffc1f6d99d75.png)
