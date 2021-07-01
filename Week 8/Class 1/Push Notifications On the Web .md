@@ -49,7 +49,7 @@ The Server needs to know how to uniquely identify each client so we can send spe
 - Handles Interactions
 - Listens in the Background
 
-![Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_8.png](Push%20Notifications%20On%20the%20Web%200e2682108b864cde92f88075ca999cb7/Screenshot_8.png)
+![Screenshot_8](https://user-images.githubusercontent.com/62988289/124088913-3af38a00-da75-11eb-93e6-f7bca03ab21d.png)
 
 Work Flow
 
