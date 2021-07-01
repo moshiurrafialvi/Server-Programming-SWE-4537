@@ -2,11 +2,11 @@
 
 Class: Server
 Class Date: June 28, 2021 10:06 AM
-Created: June 28, 2021 10:06 AM
-Link 2: https://drive.google.com/file/d/1t4IVhP7UGl0ksT2L8_mlE1vngJ17EpoG/view
-
 Type: Theory
 Video Link: https://drive.google.com/file/d/1qRchPuSqJKBoRPXYboABRehL6Tg7qUFQ/view
+Link 2: https://drive.google.com/file/d/1t4IVhP7UGl0ksT2L8_mlE1vngJ17EpoG/view
+
+------
 
 Need 2 APIs to make Push Notification Work
 
