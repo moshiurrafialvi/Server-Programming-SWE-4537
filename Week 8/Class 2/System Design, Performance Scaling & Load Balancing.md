@@ -2,8 +2,10 @@
 
 Class: Server
 Class Date: July 2, 2021
+
 Pdf Link: https://drive.google.com/file/d/1Pq6IKgeomKDsL3_IKGOIgk-t6phmjKIh/view
-Type: Theory
+
+
 Video Link: https://drive.google.com/file/d/1QN9pC8bGolSP9SI6AQ0calvwZvZhR3Bu/view
 
 ------
