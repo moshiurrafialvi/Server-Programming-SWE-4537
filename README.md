@@ -13,3 +13,6 @@ This repository will contain all my notes and important resources for Server-Pro
 - Push Notifications on The Web
 - System Design, Performance Scaling & Load Balancing
 
+### Week 9
+- Instragram,CDN
+- Deployment
